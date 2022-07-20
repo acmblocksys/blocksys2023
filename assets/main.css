@@ -160,4 +160,6 @@ font-size:20px;
     margin: 3px;
 }
 
+a.current{target: "_self"}
+
 hr{color: black}
